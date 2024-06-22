@@ -10,7 +10,7 @@ This project involves building a social media analytics platform that collects d
 - Apache Spark
 - Kafka
 - HDFS
-- TensorFlow (or another ML framework)
+- TensorFlow 
 - Docker, Kubernetes
 - Maven
 - REST APIs
@@ -24,7 +24,7 @@ This project involves building a social media analytics platform that collects d
 - Java JDK 8 or higher
 - Apache Maven
 - Docker
-- Kubernetes (optional for deployment)
+- Kubernetes 
 
 # Running the Application
 
